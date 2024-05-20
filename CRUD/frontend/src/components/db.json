@@ -1,0 +1,92 @@
+{
+  "users": [
+    {},
+    {
+      "id": "7462",
+      "name": "Hema",
+      "email": "hemaa1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7122",
+      "name": "susi",
+      "email": "susi11@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "bae9",
+      "name": "boopathy",
+      "email": "boopathy@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b223",
+      "name": "boopathy",
+      "email": "boopathy11@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "customers": [
+    {
+      "Name": "",
+      "Location": "",
+      "Services": "",
+      "Timing": ""
+    },
+    {
+      "name": "hema",
+      "location": "cbe",
+      "services": "dgcdfgb",
+      "timing": "6pm-8pm"
+    },
+    {
+      "id": "294f",
+      "Name": "Susi",
+      "Location": "",
+      "Services": "fgfhgf",
+      "Timing": "6pm-8pm"
+    },
+    {
+      "id": "625f",
+      "Name": "vcvb",
+      "Location": "vbvb",
+      "Services": "vbvcb",
+      "Timing": "6pm-8pm"
+    },
+    {
+      "id": "7f09",
+      "name": "hema",
+      "location": "dfvdg",
+      "services": "dcvc",
+      "timing": "6pm-8pm"
+    },
+    {
+      "id": "dc77",
+      "name": "dfdf",
+      "location": "dfdf",
+      "services": "fdgf",
+      "timing": "6pm-8pm"
+    },
+    {
+      "id": "22ef",
+      "name": "ssa",
+      "location": "asa",
+      "services": "asa",
+      "timing": "6pm-8pm"
+    },
+    {
+      "id": "b280",
+      "name": "prakash sk",
+      "location": "cbe",
+      "services": "xcxv",
+      "timing": "6pm-8pm"
+    },
+    {
+      "id": "99b8",
+      "name": "hema",
+      "location": "fvgbv",
+      "services": "vbv",
+      "timing": "6pm-8pm"
+    }
+  ]
+}

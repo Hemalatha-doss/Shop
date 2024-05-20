@@ -1,0 +1,89 @@
+#aboutContainer{
+  background-image: url('./Images/image3.jpg');
+  height:1100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:1200px;
+}
+
+.aboutUs{
+background-image: url('./Images/image6.jpg');
+height:300px;
+width:1000px;
+background-repeat: no-repeat;
+background-size: cover;
+margin-left: 20px;;
+
+}
+
+.intro{
+  color:white;
+  text-align:center;
+  font-weight: bolder;
+   padding-top: 250px;
+  font-style:normal
+}
+
+.card{
+  height: 300px;
+}
+.img-card{
+
+  height:300px;
+  width:350px;
+}
+
+.card-text{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: smaller;
+justify-content: start;
+
+}
+
+.card-title{
+
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.prof{
+
+margin-top: 70px;
+margin-left: 30px;;
+margin-right: 20px;;
+}
+
+
+.values{
+
+margin-top: 400px;;
+
+
+}
+
+.admin{
+
+
+  background-image: url('./Images/image11.jpg');
+  height:max-content;
+  width:1000px;
+  background-size: cover;
+
+}
+
+.admin-css{
+
+padding-top: 50px;
+font-weight: 500;
+margin-left: 150px;
+margin-right: 150px;
+
+}
+
+.service-bg{
+background-image: url('./Images/image8.jpg');
+height:500px;
+background-repeat: no-repeat;
+width:1100px;
+background-size: cover;
+}
